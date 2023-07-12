@@ -10,4 +10,5 @@ Hello,
 8. If already logged in , you will get the "Hello, <mail> You are *still* logged in! :)"
 9. Post login , you will have a 'Redirect' button
 10. This will re-direct to the To-Do app page
+    
 Thanks
